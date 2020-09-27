@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="content.css">
+<link rel="stylesheet" type="text/css" href="css/content.css">
 
 <div class="logoholder"> 
  
